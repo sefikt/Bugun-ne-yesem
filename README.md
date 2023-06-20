@@ -1,16 +1,11 @@
 # bugun_ne_yesem
 
-Buğün ne yiyeceğine karar veremedin mi? işte tam senin sorununa göre bir uygulama. uygulamayı indir kararıı ver.
+Bugün ne yiyeceğine karar veremedin mi? işte tam senin sorununa göre bir uygulama. uygulamayı indir kararını ver.
 
-## Getting Started
+Herkese merhaba bu projemin adı bugün ne yesem. 
+Açıldığında ekrana gelen herhangi bir yemeğe tıkladığınızda size rastgele bir yemek daha öneren bir uygulamadır.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/sefikt/Bugun-ne-yesem/assets/88979070/8967b178-2228-4655-b0b8-e3bc80b3ef03
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
